@@ -6,6 +6,11 @@ FONT SIZE SYSTEM (px)
 10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
 */
 
+/* MAIN COLOR: #087f5b
+   GREY COLOR: #343a40
+   
+   OTHER COLOR: #099268*/
+
 * {
   margin: 0;
   padding: 0;
@@ -31,6 +36,8 @@ section {
 
 h2 {
   margin-bottom: 48px;
+  font-size: 36px;
+  letter-spacing: -0.5px;
 }
 
 .grid-3-cols {
