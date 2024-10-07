@@ -155,6 +155,11 @@ img {
   font-size: 18px;
   line-height: 1.7;
   font-style: italic;
+  color: #c6fcf5;
+}
+
+.testimonial-author {
+  color: #c3fae8;
 }
 
 /* CHAIRS */
